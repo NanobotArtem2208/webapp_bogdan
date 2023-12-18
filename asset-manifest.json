@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2f32eb14.js",
+    "static/js/875.2b162941.js": "/static/js/875.2b162941.js",
+    "static/media/meetAstro.png": "/static/media/meetAstro.ea765dbe618921abe16d.png",
+    "static/media/imageMap.png": "/static/media/imageMap.ab134a420f4ae55f7613.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.2f32eb14.js.map": "/static/js/main.2f32eb14.js.map",
+    "875.2b162941.js.map": "/static/js/875.2b162941.js.map"
+  },
+  "entrypoints": [
+    "static/js/875.2b162941.js",
+    "static/js/main.2f32eb14.js"
+  ]
+}
